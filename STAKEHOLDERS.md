@@ -10,38 +10,38 @@ Fyrir hvern notendahóp skal skrá:
 -->
 
 ## Utan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Utan stofnunar #1]** – hlutverk og væntingar.
-2. **[Utan stofnunar #2]** – hlutverk og væntingar.
+1. **Heilbrigðisyfirvöld** - Fylgjast með að appið uppfylli lög og reglur um meðferð sjúkar- og lyfjaupplýsinga. Hafa væntingar um að kerfið tryggi öryggi og persónuvernd fatlaðra notenda.
+2. **Styrktaraðilar** - Ríkisstofnanir, sjóðir eða félagasamtök sem veita fjárhagslegan stuðning við innleiðingu og rekstur appsins. Hafa hagsmuni af því að lausnin bæti lífsgæði notenda og styðji við samfélagslega ábyrgð.
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Innan stofnunar #1]** – hlutverk og áhrif á verkefnið.
-2. **[Innan stofnunar  #2]** – hlutverk og áhrif á verkefnið.
+1. **Yfirmenn og forstöðumenn** – Ákvarða hvaða upplýsingar starfsfólk þarf að hafa aðgang að í appinu og bera ábyrgð á stefnumótum. Hafa áhrif á kröfur um virkni og notendaupplyfun.
+2. **Öryggis- og persónuverndarfulltrúi** – Tryggir að notkun og þróun appsins fylgi lögum um persónuvernd og innri verklagsreglum. Hefur áhrif á hvaða gögn mega vera aðgengileg og hvernig þau eru geymd.
 
 ## Viðskiptavinir (ekki notendur)
-1. **[Viðskiptavinategund #1]** – hlutverk og áhrif.
-2. **[Viðskiptavinategund #2]** – hlutverk og áhrif.
+1. **Sveitarfélög** – Kaupa aðgang að appinu fyrir sína þjónustu fyrir fatlaða. HAfa áhrif á fjármagn, dreifingu og innleiðingu.
+2. **Þjónustukjarni fyrir fatlaða** – Nota appið sem hluta af daglegri starfsemi til að styðja við starfsmenn og þjónustunotendur. Hafa áhrif með því að skilgreina þarfir starfsfólks og þjónustunotenda.
 
 ## Notendahópar
 
-### 1. [Heiti hóps]
-- **Staða:** [ ] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** [Ferlar, hlutverk, markmið]
+### 1. Starfsfólk á heimilum fyrir fatlaða
+- **Staða:** [X] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Stærð:** ~ 50-200 (fer eftir stofnun)  
+- **Lýsing:** Notar appið til að skoða lyfjaupplýsingar, bakgrunn einstaklings og bjargráð. Markmið þeirra er að bæta ummönnun, auka öryggi og einfalda samskipti.
 
-### 2. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+### 2. Þjónustunotendur
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [X] Aðrir  [ ] Óbeinn  
+- **Stærð:** ~ 100-500 (fer eftir stofnun)  
+- **Lýsing:** Fá aðgang að AI-spjallmenni sem veitir sálfræðilegan stuðning og ráð. Markmið þeirra er að fá persónulega aðstoð við andleg vandamál og bæta líðan sína.
 
-### 3. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+### 3. Fjölskyldur og aðstandendur fatlaðra einstaklinga
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [X] Óbeinn  
+- **Stærð:** ~ 200-400  
+- **Lýsing:** Fá ekki beinan aðgang að appinu en njóta ávinnings af bættri þjónustu og öryggi. Hafa stundum áhrif með því að miðla upplýsingum og gera athugasemdir við þjónustu
 
-### 4. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+### 4. Óviðkomandi aðilar sem reyna að brjótast inn í kerfið
+- **Staða:** [ ] Forgangs   [X] Óæskilegir  [ ] Aðrir [ ] Óbeinn  
+- **Stærð:** ~ Ekki mælanlegt  
+- **Lýsing:** Geta verið tölvuþrjótar eða óviðkomandi einstaklingar sem reyna að nálgast viðkvæmar upplýsingar. Hafa ekki réttmæta hagsmuni en þarf að huga sérstaklega að öryggisráðstöfunum gegn þeim.
 
 ## Persona fyrir Forgangs  notendahóp
 <!--
@@ -70,7 +70,8 @@ synthesize about 20 new proprietary chemicals to go into the stockroom. Fred wan
 a report of his chemical usage for the previous month to be generated automatically
 and sent to him by email so that he can monitor his chemical exposure.
 --> 
-- **Nafn:**
-- **Notendahópur:**
-- **Starf/hlutverk:**
-- **Lýsing:**
+- **Nafn:** Anna Karen
+- **Notendahópur:** 1. Starfsfólk á heimili fyrir fatlaða
+- **Starf/hlutverk:** Starfsmaður á heimili fyrir fatlaða
+- **Lýsing:** Anna er 32 ára og býr í Reykjavík. Hún hefur starfað í þjónustu við fatlaða í sex ár og sinnir daglegri umönnun þjónustunotenda. Mikilvægt er fyrir hana að hafa skjótan aðgang að upplýsingum um lyf, þar sem lyfjagjöf má aldrei gleymast. Hún þarf einnig að sjá fljótt hvaða bjargráð eiga við og hvernig á að bregðast rétt í ákveðnum aðstæðum.
+Anna vill að appið sé einfalt, áreiðanlegt og fljótvirkt, þar sem hún hefur hvorki mikinn tíma né þolinmæði til að fletta í gegnum flókin kerfi. Hún metur það einnig mikils að AI-spjallmennið geti veitt þjónustunotendum stuðning og ráðgjöf, sem gerir hennar starf auðveldara og hjálpar henni að forgangsraða öðrum verkefnum.
