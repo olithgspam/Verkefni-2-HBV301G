@@ -1,9 +1,9 @@
 # Software Requirements Specification (útgáfa fyrir verkefni 2)
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Hópur 2 - Brynja Kristín Bertelsdóttir og Óli Þorbjörn Guðbjartsson
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Stoð
 
 ## 1. Inngangur
 
