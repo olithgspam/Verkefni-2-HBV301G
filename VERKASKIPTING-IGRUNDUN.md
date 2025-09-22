@@ -1,11 +1,10 @@
 ## Verkaskipting
-Skrifið stutta lýsingu um hvernig þið
-#### skiptuð með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman 
-#### rýnduð kröfurnar hjá hvert öðru
-####  gerðuð pull, commit og push og pull request
+Brynja sá um STAKEHOLDERS, SRS og VERKASKIPTING-IGRUNDUN. Óli sá um README og CONFLICTS. Fyrir hvert verkefni var búið til nýtt branch til að vinna á og að verki loknu þá voru breytingarnar committaðar og búið til pull request sem hinn aðilinn samþykkti eftir að rýna og ganga úr skugga um að allt væri í lagi.
 
 ## Ígrundun 
-Í lok verkefnis gerið endurmat á verkefninu: 
+
 #### Hvað gekk vel í verkefninu 
+Það sem gekk vel var verkaskipting og skipulag í hópnum. Hópurinn vann á mismunandi stöðum en samskipti og samvinna gekk prýðilega.
 
 #### Hvað má bæta næst 
+Það sem mætti bæta í næsta verkefni er að það væri þægilegra að vinna verkefnið á sama stað og ná þá enn betri samvinnu og í heild betra verkefni.
