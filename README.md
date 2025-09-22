@@ -1,12 +1,25 @@
-# Verkefni 2 – Hagsmunaaðilar, Persónur og Árekstrar
+# Verkefni 2: Hagsmunaaðilar og árekstrar fyrir umönnunarkerfið Stoð
 
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 2 
+## Höfundar og áfangi
 
-Þessi mappa inniheldur efnið sem beðið er um í verkefninu.
+* **Áfangi:** HBV301G Verkfræði kröfugreiningar
+* **Höfundar:** Brynja Kristín Bertelsdóttir og Óli Þorbjörn Guðbjartsson
 
-- **STAKEHOLDERS.md:** Flokkun hagsmunaaðila (utan/innan), viðskiptavinir (ekki notendur), notendahópar (4 stk) og persona.
-- **CONFLICTS.md:** Árekstrar (2× business strategy, 2× requirements value, 2× requirements substance, 2× requirements process).
-- **SRS.md:** Stutt útgáfa af Software Requirements Specification, aðeins það sem á við í þessu verkefni.
-- **VERKASKIPTING-IGRUNDUN.md Í lokin lýsa nemendur verkeskiptingu og ígrunda verkefnið
-> Ábending: Vísanir í kröfur skulu vera í formi GitHub Issue tengla, t.d. `[#12](https://github.com/<org>/<repo>/issues/12)`.
+## Um verkefnið
+
+Þetta verkefni byggir á kröfugreiningu fyrir umönnunarkerfið **Stoð** sem unnin var í Verkefni 1. Hér er farið dýpra í greiningu á þeim aðilum sem tengjast kerfinu og þeim árekstrum sem geta komið upp við þróun þess. Markmiðið er að öðlast betri skilning á þörfum og forgangsröðun mismunandi hagsmunaaðila.
+
+### Helstu áherslur verkefnisins
+
+* **Greining á hagsmunaaðilum:** Skilgreining á öllum hagsmunaaðilum, viðskiptavinum og notendahópum kerfisins.
+* **Gerð persónu:** Útfærsla á persónu fyrir kjörinn notendahóp til að dýpka skilning á þörfum hans.
+* **Greining á árekstrum:** Greining á átta mögulegum árekstrum sem geta komið upp í kröfuferlinu og tillögur að lausnum.
+
+## Innihald geymslu (Repository)
+
+Þessi geymsla (repository) inniheldur afurðir greiningarvinnu fyrir Verkefni 2. Hér má finna ítarleg skjöl um verkefnið:
+
+* **[STAKEHOLDERS.md](STAKEHOLDERS.md):** Nákvæm greining á hagsmunaaðilum, notendahópum og útfærð persóna.
+* **[CONFLICTS.md](CONFLICTS.md):** Lýsing á átta mögulegum árekstrum og tillögur að úrlausnum.
+* **[SRS.md](SRS.md):** Einfölduð kröfulýsing sem bindur saman afurðir verkefnisins.
+* **[VERKASKIPTING-IGRUNDUN.md](VERKASKIPTING-IGRUNDUN.md):** Umfjöllun um verkaskiptingu og ígrundun á hópavinnu.
